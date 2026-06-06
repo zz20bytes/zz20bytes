@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1000" height="600" alt="aura" src="https://github.com/user-attachments/assets/dbd3303a-dd50-4f27-8b3c-a7193b8d0c5b" />
 
 <!--
 **zz20bytes/zz20bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
